@@ -1,6 +1,6 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This repository is the submission of "Getting and Cleaning Data" course by Muhammad Shahzaib Siddiqui. It contains the instructions on the working of the script.
+This repository is the submission of the final project of "Getting and Cleaning Data" course by Muhammad Shahzaib Siddiqui. It contains the instructions on the working of the script.
 
 **Dataset source:** https://bit.ly/1mEvWTG
 
