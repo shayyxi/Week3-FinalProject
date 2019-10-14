@@ -1,10 +1,10 @@
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 This repository is the submission of "Getting and Cleaning Data" course by Muhammad Shahzaib Siddiqui. It contains the instructions on the working of the script.
 
-Dataset source: https://bit.ly/1mEvWTG
+**Dataset source:** https://bit.ly/1mEvWTG
 
-Files:
+**Files:**
 
 "CodeBook.md" is the only codebook of this project. It describes the variables and all the transformations done on the dataset to get the desired results.
 
